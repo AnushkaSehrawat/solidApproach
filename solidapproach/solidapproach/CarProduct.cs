@@ -15,7 +15,7 @@ namespace solidapproach
 
         public void Book()
         {
-            //Console.WriteLine("Car Booked");
+            Console.WriteLine("Car Booked");
         }
 
         public void Save()
