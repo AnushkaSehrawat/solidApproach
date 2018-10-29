@@ -20,7 +20,7 @@ namespace solidapproach
 
         public void Save()
         {
-            Console.WriteLine("Car Product saved")
+            Console.WriteLine("Car Product saved");
         }
     }
 }
