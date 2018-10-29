@@ -10,7 +10,7 @@ namespace solidapproach
     {
         public string GetTypeOfProduct()
         {
-            return "car";
+            return "car"
         }
 
         public void Book()
